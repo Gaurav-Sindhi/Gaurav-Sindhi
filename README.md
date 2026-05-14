@@ -19,7 +19,7 @@
 # /whoami
 
 ```python
-class GauravNarayani:
+class GauravSindhi:
 
     role = "Computer Science Engineering Student"
 
@@ -43,23 +43,97 @@ class GauravNarayani:
     I don't just like building projects.
     I like engineering systems that solve problems.
     """
+```
 
-## 🛠️ Tech Stack
+---
 
-### 👨‍💻 Programming Languages
+# What I Like Building
+
+Most developers build applications.
+
+I enjoy building systems that:
+- automate workflows
+- analyze real-world data
+- generate insights automatically
+- scale on cloud infrastructure
+- reduce manual effort using AI
+
+I’m deeply interested in the intersection of:
+
+```text
+AI + Cloud + Automation + Scalable Backend Systems
+```
+
+---
+
+# 🚀 Current Major Project
+
+## Autonomous Data Intelligence Platform
+
+An AI-powered cloud platform that can:
+
+✔ Upload datasets  
+✔ Clean and preprocess data automatically  
+✔ Train multiple ML models  
+✔ Detect patterns and generate insights  
+✔ Visualize analytics  
+✔ Provide prediction APIs  
+
+### Architecture
+
+```text
+Frontend → FastAPI → AWS S3 → Lambda → EC2 ML Engine → Prediction APIs
+```
+
+### Tech Stack
+
+```yaml
+Backend:
+  - FastAPI
+  - Python
+
+MachineLearning:
+  - Scikit-learn
+  - Pandas
+  - NumPy
+  - XGBoost
+
+Cloud:
+  - AWS S3
+  - AWS Lambda
+  - AWS EC2
+
+Frontend:
+  - Streamlit
+```
+
+---
+
+# 🛠️ Technical Skills
+
+## Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,mysql" />
 </p>
 
-### ⚙️ Backend & Frameworks
+---
+
+## Backend & Frameworks
+
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,flask,nodejs" />
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,flask" />
 </p>
 
-### 🧠 AI / ML / Data Science
+---
+
+## AI / ML / Data Science
+
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
+
+### Libraries & Tools
 
 - Pandas  
 - NumPy  
@@ -69,85 +143,129 @@ class GauravNarayani:
 
 ---
 
-### ☁️ Cloud & DevOps
+## Cloud & DevOps
+
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 </p>
 
 ---
 
-### 🗄️ Databases
+## Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+# 🔥 Featured Projects
 
-### 🚀 Autonomous Data Intelligence Platform
-AI-powered platform that:
-- Uploads datasets
-- Cleans data automatically
-- Trains ML models
-- Generates insights
-- Provides predictions through APIs
+## 🧠 Autonomous Data Intelligence Platform
+
+AI-driven automated analytics and machine learning platform capable of:
+- automated preprocessing
+- ML model training
+- insight generation
+- cloud-based processing
+- prediction APIs
 
 **Tech:** FastAPI, AWS, Scikit-learn, Pandas, Streamlit
 
 ---
 
-### 🏥 Hospital Management System
+## 🏥 MedBridge [ A Smart and Connected Hospital Management System ]
+
 Full-stack healthcare platform with:
-- Appointment booking
-- Doctor management
-- Patient dashboard
-- Payment handling
+- appointment management
+- patient dashboards
+- doctor scheduling
+- payment handling
 
 **Tech:** Java, JSP, Servlets, MySQL
 
 ---
 
-### ⛽ Fuel Indeed
-Online fuel booking platform with:
-- Fuel ordering
-- Delivery tracking
-- Station management
-- Real-time updates
+## ⛽ Fuel Indeed
+
+Online fuel booking and logistics management system.
 
 **Tech:** Java, JDBC, Servlets
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 Engineering Mindset
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Sindhi&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Sindhi&theme=tokyonight" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning
-- Cloud-Native Architecture
-- System Design
-- MLOps & AI Deployment
-- Distributed Systems
+I enjoy:
+- architecting scalable systems
+- understanding how technologies work internally
+- optimizing workflows
+- debugging deeply
+- learning production-grade development practices
 
 ---
 
-## 🎯 Career Goal
+# 📈 Current Learning Curve
 
-To build intelligent systems that solve real-world problems using AI, scalable backend architectures, and cloud technologies.
+```text
+Machine Learning Engineering
+Cloud-Native Architecture
+MLOps
+Distributed Systems
+Advanced Backend Engineering
+System Design
+```
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaurav-Sindhi&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Sindhi&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Sindhi&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+# 🌍 Beyond Code
+
+I come from a place where opportunities are limited.
+
+That’s one reason I care deeply about:
+- continuous learning
+- building meaningful systems
+- creating impactful technology
+- improving through execution rather than shortcuts
+
+I strongly believe that consistency, curiosity, and execution matter more than background.
+
+---
+
+# 🎯 Long-Term Goal
+
+To engineer intelligent systems capable of solving large-scale real-world problems using:
+- AI
+- cloud infrastructure
+- scalable architectures
+- intelligent automation
+
+---
+
+# ⚡ Philosophy
+
+```text
+Don't just build projects.
+Build systems that solve real problems.
+```
+
+---
+
+# 📫 Connect With Me
 
 <p>
   <a href="https://github.com/Gaurav-Sindhi">
@@ -157,6 +275,9 @@ To build intelligent systems that solve real-world problems using AI, scalable b
 
 ---
 
-<h3 align="center">
-⚡ “Building intelligent systems one project at a time.” ⚡
-</h3>
+<div align="center">
+
+### “The goal is not to follow trends.  
+### The goal is to build things that matter.”
+
+</div>
