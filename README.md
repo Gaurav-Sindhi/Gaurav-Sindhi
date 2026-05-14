@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/Backend%20Systems-1e293b?style=for-the-badge" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Engineering+AI-powered+systems;Building+real-world+cloud+applications;Machine+Learning+%2B+Backend+%2B+AWS;Focused+on+scalable+intelligent+systems" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Engineering+AI-powered+systems;Building+real-world+cloud+applications;Machine+Learning+%2B+Backend+%2B+AWS;Focused+on+scalable+intelligent+systems" />
+</p>
 
 </div>
 
