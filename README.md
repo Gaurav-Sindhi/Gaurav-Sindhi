@@ -1,30 +1,48 @@
-<h1 align="center">Hi 👋, I'm Gaurav Sindhi</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Aspiring Software Engineer | AI & Data Science Enthusiast | Cloud Learner
-</h3>
+# Gaurav Sindhi
 
----
+### Building autonomous AI systems that think, analyze, and scale.
 
-## 🧠 About Me
+<p>
+  <img src="https://img.shields.io/badge/AI%20Engineering-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Systems-1e293b?style=for-the-badge" />
+</p>
 
-🎓 B.Tech Computer Science Engineering Student  
-💡 Passionate about building real-world AI-powered systems  
-☁️ Exploring Cloud Computing, Machine Learning & Backend Engineering  
-⚙️ Focused on creating scalable and impactful applications  
-📈 Currently working on intelligent automation and data-driven platforms  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Engineering+AI-powered+systems;Building+real-world+cloud+applications;Machine+Learning+%2B+Backend+%2B+AWS;Focused+on+scalable+intelligent+systems" />
 
----
-
-## 🚀 Current Focus
-
-🔹 Autonomous Data Intelligence Platform  
-🔹 Machine Learning Pipelines  
-🔹 FastAPI Backend Development  
-🔹 AWS Cloud Architecture  
-🔹 Scalable AI Systems  
+</div>
 
 ---
+
+# /whoami
+
+```python
+class GauravNarayani:
+
+    role = "Computer Science Engineering Student"
+
+    passion = [
+        "Artificial Intelligence",
+        "Machine Learning Systems",
+        "Cloud Infrastructure",
+        "Backend Engineering",
+        "Automation"
+    ]
+
+    current_focus = [
+        "Autonomous AI Systems",
+        "FastAPI Backend Development",
+        "Cloud-Native Applications",
+        "ML Pipelines",
+        "System Design"
+    ]
+
+    mindset = """
+    I don't just like building projects.
+    I like engineering systems that solve problems.
+    """
 
 ## 🛠️ Tech Stack
 
