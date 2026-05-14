@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Engineering+AI-powered+systems;Building+real-world+cloud+applications;Machine+Learning+%2B+Backend+%2B+AWS;Focused+on+scalable+intelligent+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Engineering+AI-powered+systems;Building+real-world+cloud+applications;Machine+Learning+%2B+Backend+%2B+AWS;Focused+on+scalable+intelligent+systems" />
 </p>
 
 </div>
